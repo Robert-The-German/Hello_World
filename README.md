@@ -1,5 +1,7 @@
 # Hello_World
-# this is a new Github account, my old one being linked to my company account so - nothing to see here.
+# Dear Employer, thank you for checking out my Github. As I am only here to look at written word directories and check out dev tools, there is nothing to see here but some SQL tables below I wrote for fun.
+
+# Cheers, have a great day!
 CREATE TABLE emp (
 empno INT PRIMARY KEY,
 ename VARCHAR(10),
